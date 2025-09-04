@@ -1,5 +1,4 @@
-﻿﻿<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3894373" style='border:none;'></iframe>
-  
+<img src="https://tryhackme-badges.s3.amazonaws.com/hssh22.png" alt="Your Image Badge" />  
 <!--
 **h-ssh/h-ssh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
