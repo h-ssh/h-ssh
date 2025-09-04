@@ -1,4 +1,4 @@
-<img src="https://tryhackme-badges.s3.amazonaws.com/hssh22.png" alt="Your Image Badge" />  
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/hssh22.png)](https://tryhackme.com/p/hssh22)
 <!--
 **h-ssh/h-ssh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
